@@ -5,4 +5,5 @@
 * Go into the github action option.
 * Run the Java CI with Maven.
 
-# You can take the reference from blog : https://blog.knoldus.com/how-to-configure-java-ci-with-maven-checks-in-github-action/
+# You can take the reference from blog : 
+https://blog.knoldus.com/how-to-configure-java-ci-with-maven-checks-in-github-action/
