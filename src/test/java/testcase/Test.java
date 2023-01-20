@@ -37,7 +37,7 @@ public class Test extends BaseClass {
         driver.findElement(By.id("Email")).sendKeys("avadhsharma566@gmail.com");
         driver.findElement(By.id("Password")).sendKeys("prajjawal1234");
         driver.findElement(By.xpath("//button[@class='button-1 login-button']")).submit();
-        Thread.sleep(3000);
+        Thread.sleep(2000);
 
         Assert.assertEquals(driver.getTitle(), "nopCommerce demo store. Login");
     }
